@@ -8,3 +8,5 @@ joblib==1.2.0
 matplotlib==3.6.3
 seaborn==0.12.2
 plotly==5.13.1
+ydata-profiling==4.6.4
+streamlit-pandas-profiling==0.1.3
